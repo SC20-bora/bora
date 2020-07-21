@@ -1,0 +1,112 @@
+---------------pvfs start, bag: test-21g.bag, topic: /camera/depth/image -------------
+start reading chunk info
+pvfs_time open_time: 22.5162680149
+pvfs_time read_time: 20.841917038
+10003
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 43.36 seconds.
+All Tasks runs 43.36 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /camera/rgb/image_color -------------
+start reading chunk info
+pvfs_time open_time: 22.7837500572
+pvfs_time read_time: 17.9070699215
+10017
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 40.69 seconds.
+All Tasks runs 40.69 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /camera/depth/camera_info -------------
+start reading chunk info
+pvfs_time open_time: 22.6824471951
+pvfs_time read_time: 1.27328491211
+10010
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 23.96 seconds.
+All Tasks runs 23.96 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /camera/rgb/camera_info -------------
+start reading chunk info
+pvfs_time open_time: 22.7223880291
+pvfs_time read_time: 1.22569394112
+10024
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 23.95 seconds.
+All Tasks runs 23.95 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /cortex_marker_array -------------
+start reading chunk info
+pvfs_time open_time: 22.7403349876
+pvfs_time read_time: 13.5693900585
+101409
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 36.31 seconds.
+All Tasks runs 36.31 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /imu -------------
+start reading chunk info
+pvfs_time open_time: 22.7275960445
+pvfs_time read_time: 10.474501133
+170569
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 33.20 seconds.
+All Tasks runs 33.20 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-21g.bag, topic: /tf -------------
+start reading chunk info
+pvfs_time open_time: 22.7875669003
+pvfs_time read_time: 8.87826895714
+114877
+pvfs_time Task /pvfsmnt_ssd/test-21g.bag runs 31.67 seconds.
+All Tasks runs 31.67 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /camera/depth/image -------------
+start reading chunk info
+pvfs_time open_time: 45.5725851059
+pvfs_time read_time: 41.2823278904
+20006
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 86.85 seconds.
+All Tasks runs 86.86 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /camera/rgb/image_color -------------
+start reading chunk info
+pvfs_time open_time: 45.4854300022
+pvfs_time read_time: 34.7022612095
+20034
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 80.19 seconds.
+All Tasks runs 80.19 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /camera/depth/camera_info -------------
+start reading chunk info
+pvfs_time open_time: 45.4447638988
+pvfs_time read_time: 1.82945895195
+20020
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 47.27 seconds.
+All Tasks runs 47.27 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /camera/rgb/camera_info -------------
+start reading chunk info
+pvfs_time open_time: 45.5998950005
+pvfs_time read_time: 1.82731199265
+20048
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 47.43 seconds.
+All Tasks runs 47.43 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /cortex_marker_array -------------
+start reading chunk info
+pvfs_time open_time: 45.5195660591
+pvfs_time read_time: 25.7881519794
+202818
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 71.31 seconds.
+All Tasks runs 71.31 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /imu -------------
+start reading chunk info
+pvfs_time open_time: 45.4798629284
+pvfs_time read_time: 19.9583199024
+341138
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 65.44 seconds.
+All Tasks runs 65.44 seconds.
+---------------pvfs exit ------------
+---------------pvfs start, bag: test-42g.bag, topic: /tf -------------
+start reading chunk info
+pvfs_time open_time: 45.4089100361
+pvfs_time read_time: 16.7035210133
+229754
+pvfs_time Task /pvfsmnt_ssd/test-42g.bag runs 62.11 seconds.
+All Tasks runs 62.11 seconds.
+---------------pvfs exit ------------
